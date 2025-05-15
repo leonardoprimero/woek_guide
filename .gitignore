@@ -1,0 +1,30 @@
+# ⚙️ Node modules
+/node_modules
+
+# 🏗️ Build folder
+/build
+
+# 💻 MacOS
+.DS_Store
+
+# ⚠️ Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 🧪 Coverage reports
+/coverage
+
+# 📦 Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🧹 Cache de ESLint
+.eslintcache
+
+# ⚙️ Optional IDE configs
+.vscode/
+.idea/
